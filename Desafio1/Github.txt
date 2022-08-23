@@ -1,0 +1,2 @@
+Este arquivo somente serve para teste da ferramenta Git.
+download: https://git-scm.com/downloads.
